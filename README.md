@@ -126,7 +126,7 @@ Desarrollo de herramientas internas para manejo de certificaciones por ubicació
 
 <br clear="both">
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
 
