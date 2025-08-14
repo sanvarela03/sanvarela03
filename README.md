@@ -125,6 +125,19 @@ Desarrollo de herramientas internas para manejo de certificaciones por ubicació
 
 <br clear="both">
 
+# 📊 GitHub Stats:
+
+<div align="center">
+
+  [![](https://github-readme-stats.vercel.app/api?username=sanvarela03&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/sanvarela03)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=sanvarela03&theme=material-palenight)](https://github.com/sanvarela03)
+</div>
+
+<p> </p>
+
+<br clear="both">
+
+
 ## 📫 Conecta conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/santiago-varela-b33917165/)  
 - 🐙 [GitHub](https://github.com/sanvarela03)  
